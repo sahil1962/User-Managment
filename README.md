@@ -30,3 +30,7 @@ This application demonstrates basic CRUD (Create, Read, Update, Delete) function
       ```
       nodemon start
       ```
+
+
+## Page
+![Main Page](https://github.com/sahil1962/User-Managment/assets/88630749/f72762f9-c4f5-4801-ad79-5702fabd400f)
